@@ -7,7 +7,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.1.3.RELEASE</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.baeldung.examples.olingo4</groupId>
 	<artifactId>olingo4-sample</artifactId>
@@ -17,7 +17,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<odata.version>4.5.0</odata.version>
+		<odata.version>4.6.0</odata.version>
 	</properties>
 
 	<dependencies>
