@@ -858,7 +858,7 @@
         <vavr.version>0.9.0</vavr.version>
         <geotools.version>15.2</geotools.version>
         <hirondelle-date4j.version>1.5.1</hirondelle-date4j.version>
-        <retrofit.version>2.3.0</retrofit.version>
+        <retrofit.version>2.5.0</retrofit.version>
         <joda-time.version>2.10</joda-time.version>
         <hirondelle-date4j.version>1.5.1</hirondelle-date4j.version>
         <protonpack.version>1.15</protonpack.version>
@@ -866,11 +866,11 @@
         <cache.version>1.0.0</cache.version>
         <hazelcast.version>3.10.2</hazelcast.version>
         <caffeine.version>2.5.5</caffeine.version>
-        <google-api.version>1.23.0</google-api.version>
+        <google-api.version>1.32.1</google-api.version>
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
         <kafka.version>2.0.0</kafka.version>
         <smooks.version>1.7.0</smooks.version>
-        <docker.version>3.0.14</docker.version>
+        <docker.version>3.2.0</docker.version>
         <async.http.client.version>2.2.0</async.http.client.version>
         <infinispan.version>9.1.5.Final</infinispan.version>
         <opencsv.version>4.1</opencsv.version>
@@ -883,7 +883,7 @@
         <resilience4j.version>0.12.1</resilience4j.version>
         <javapoet.version>1.10.0</javapoet.version>
         <hamcrest-all.version>1.3</hamcrest-all.version>
-        <hoverfly-java.version>0.8.1</hoverfly-java.version>
+        <hoverfly-java.version>0.11.2</hoverfly-java.version>
         <javax.jdo.version>3.2.0-m7</javax.jdo.version>
         <datanucleus.version>5.1.1</datanucleus.version>
         <datanucleus-maven-plugin.version>5.0.2</datanucleus-maven-plugin.version>
@@ -896,7 +896,7 @@
         <quartz.version>2.3.0</quartz.version>
         <jool.version>0.9.12</jool.version>
         <jmh.version>1.19</jmh.version>
-        <groovy.version>2.5.2</groovy.version>
+        <groovy.version>3.0.7</groovy.version>
         <noexception.version>1.1.0</noexception.version>
         <logging-interceptor.version>3.9.0</logging-interceptor.version>
         <yarg.version>2.0.4</yarg.version>
@@ -906,16 +906,16 @@
         <jgrapht.version>1.0.1</jgrapht.version>
         <docx4j.version>3.3.5</docx4j.version>
         <jaxb-api.version>2.1</jaxb-api.version>
-        <bouncycastle.version>1.58</bouncycastle.version>
+        <bouncycastle.version>1.66</bouncycastle.version>
         <jersey.version>1.19.4</jersey.version>
-        <javalin.version>1.6.0</javalin.version>
+        <javalin.version>3.13.9</javalin.version>
         <fugue.version>4.5.1</fugue.version>
         <maven-bundle-plugin.version>3.3.0</maven-bundle-plugin.version>
         <maven-jar-plugin.version>3.0.2</maven-jar-plugin.version>
         <derive4j.version>1.1.0</derive4j.version>
         <mockftpserver.version>2.7.1</mockftpserver.version>
         <commons-net.version>3.6</commons-net.version>
-        <reflections.version>0.9.11</reflections.version>
+        <reflections.version>0.9.12</reflections.version>
 
     </properties>
 
