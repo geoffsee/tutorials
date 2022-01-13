@@ -40,7 +40,7 @@
     <properties>
         <maven.compiler.source.version>11</maven.compiler.source.version>
         <maven.compiler.target.version>11</maven.compiler.target.version>
-        <guava.version>27.1-jre</guava.version>
+        <guava.version>30.0-jre</guava.version>
     </properties>
 
 </project>
